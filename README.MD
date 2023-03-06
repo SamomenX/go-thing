@@ -1,0 +1,1 @@
+a repo with small go things, currently only bookstore
